@@ -319,6 +319,3 @@ Once the Notebook is in service, follow the link to open the hosted Jupyter note
     Once configured, this will enable the `Identify Gender` button, which when clicked, would send HTTP request to the new endpoint. 
     
     </details>    
-
-
-3. Eager to see the end result of all the hard work you put in to identify customers' genders?  Launch one of these AWS CloudFormation templates in the Region of your choice to build the necessary resources automatically.
